@@ -275,3 +275,46 @@ Próximo projeto
 ```
 
 > **Quanto mais ciclos completos de análise, maior a oportunidade de desenvolver raciocínio analítico.**
+
+
+
+## 🚀 Evolução do laboratório
+
+Este laboratório também funciona como um espaço para desenvolver habilidades além da execução técnica das análises.
+
+### 🎥 Apresentações em vídeo
+
+Quando o desenvolvimento dos projetos curtos estiver mais natural e consistente, pretendo começar a gravar **apresentações em vídeo de alguns projetos selecionados**.
+
+A gravação não será um requisito para concluir cada projeto. A ideia é adicionar essa etapa gradualmente, sem comprometer a proposta de manter análises rápidas e de escopo reduzido.
+
+Os vídeos terão como objetivo praticar:
+
+- comunicação de resultados;
+- storytelling com dados;
+- apresentação de análises para diferentes públicos;
+- síntese dos principais insights;
+- explicação das decisões analíticas;
+- comunicação de limitações e conclusões.
+
+A estrutura das apresentações poderá seguir um fluxo simples:
+
+```text
+Contexto
+   ↓
+Problema
+   ↓
+Dados e abordagem
+   ↓
+Principais evidências
+   ↓
+Insights
+   ↓
+Conclusão
+```
+
+Os vídeos devem ser **curtos e objetivos**, priorizando a capacidade de explicar o raciocínio por trás da análise em vez de apresentar todos os detalhes técnicos.
+
+No futuro, os projetos que possuírem apresentação poderão ser identificados na tabela principal do laboratório com um link para o respectivo vídeo.
+
+> **O objetivo não é gravar todos os projetos, mas utilizar análises selecionadas para praticar a comunicação de dados.**
